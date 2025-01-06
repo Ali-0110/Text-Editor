@@ -22,5 +22,5 @@ cd Text-Editor
 ```
 run code 
 ```bash
-python Text-Editor.py
+python text editor.py
 ```
