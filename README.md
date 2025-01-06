@@ -8,7 +8,7 @@ This is a Text editor programed in python using Tkinter and OS libraries.The aim
 
   # Installation
   This project requires having python installed.
-  Also requires pacakages to be download via ```pip```
+  Also requires pacakages to be download via ```pip``` :
 ```
 tkinter
 os
