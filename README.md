@@ -13,3 +13,14 @@ This is a Text editor programed in python using Tkinter and OS libraries.The aim
 tkinter
 os
  ```
+
+# How to run
+Clone the repository
+```bash
+git clone https://github.com/Ali-0110/Text-Editor.git
+cd Text-Editor
+```
+run code 
+```bash
+python Text-Editor.py
+```
